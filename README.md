@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/5330387/183502751-f29645f1-ccb4-408b-be1d-c6ef31649345.png)
+![logo](https://img.freepik.com/free-vector/flat-design-minimal-technology-twitch-banner_23-2149173938.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm mkcreator</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
