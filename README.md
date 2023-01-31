@@ -1,5 +1,5 @@
 ![logo](https://user-images.githubusercontent.com/5330387/183502751-f29645f1-ccb4-408b-be1d-c6ef31649345.png)
-<h1 align="center">Hi 👋, I'm mkcreator</h1>
+<h1 align="center">Hi 👋, I'm Mujeeb khan</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkcreator&label=Profile%20views&color=0e75b6&style=flat" alt="mkcreator" /> </p>
